@@ -1,0 +1,11 @@
+# Completion roadmap
+- [x] Remove raw manifest displays and refine the genomics interface.
+- [x] Fix newly created passport visibility and verify cross-page updates and reload persistence.
+- [x] Adapt registration and verification to the uploaded deployed ABI, including its missing-record revert.
+- [x] Show actual local creation and on-chain events in activity and charts.
+- [x] Expose actual wallet authorization and registration pause status.
+- [x] Complete unique content-route metadata and remove in-app marketing.
+- [x] Run regression tests and verify creation/download/live unregistered verification in the browser.
+- [ ] Verify a signed registration and registered-package verification (requires an authorized wallet with Sepolia ETH and user approval).
+- [ ] Remove hosted platform badge (requires eligible account permissions).
+- [ ] Publish and connect a user-owned domain (requires domain and explicit publishing request).
